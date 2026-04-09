@@ -7,5 +7,8 @@ string result = xdoc.Descendants("trans-unit")
     .First()
     .Element("target").Value;
 
-Console.WriteLine(result);
 
+//Just to double check the reuslt
+//Console.WriteLine(result); 
+
+File.WriteAllText("result.txt", result);
