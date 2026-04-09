@@ -4,13 +4,13 @@
 
 <root version="1.2">
 
-	<file source-language=”en” target-language=”sv-se”>
+	<file source-language="en" target-language="sv-se">
 
 		<body>
 
-			<group resname=”_ptcsma.acl” restype=”file”/>
+			<group resname="_ptcsma.acl" restype="file"/>
 
-			<trans-unit id=”42006” restype=”string”>
+			<trans-unit id="42006" restype="string">
 
 				<source>WARNING</source>
 
@@ -18,7 +18,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42007” restype=”string”>
+			<trans-unit id="42007" restype="string">
 
 				<source>Note</source>
 
@@ -26,7 +26,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42008” restype=”string”>
+			<trans-unit id="42008" restype="string">
 
 				<source>DANGER</source>
 
@@ -34,7 +34,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42009” restype=”string”>
+			<trans-unit id="42009" restype="string">
 
 				<source>CAUTION</source>
 
@@ -42,25 +42,25 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42010” restype=”string” datatype=”text/plain”>
+			<trans-unit id="42010" restype="string" datatype="text/plain">
 
 				<source>EXIT</source>
 
 				<target>UTGÅNG</target>
 
-				<note priority=”1”>Used in emergency situations</note>
+				<note priority="1">Used in emergency situations</note>
 
 			</trans-unit>
 
-			<trans-unit id=”42011” restype=”string” xml:space=”preserve”> 
+			<trans-unit id="42011" restype="string" xml:space="preserve"> 
 
-<source>Press ”OK” to continue</source> 
+<source>Press "OK" to continue</source> 
 
-<target>Tryck ”OK” för att fortsätta</target> 
+<target>Tryck "OK" för att fortsätta</target> 
 
 </trans-unit>
 
-			<trans-unit id=”42012” restype=”string” approved=”yes”>
+			<trans-unit id="42012" restype="string" approved="yes">
 
 				<source>Settings</source>
 
@@ -70,7 +70,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42013” restype=”string” state=”translated”>
+			<trans-unit id="42013" restype="string" state="translated">
 
 				<source>Help</source>
 
@@ -80,7 +80,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42014” restype=”string”>
+			<trans-unit id="42014" restype="string">
 
 				<source>Filen hittades inte.</source>
 
@@ -96,7 +96,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42015” restype=”string”>
+			<trans-unit id="42015" restype="string">
 
 				<source>Loading…</source>
 
@@ -106,7 +106,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42016” restype=”string”>
+			<trans-unit id="42016" restype="string">
 
 				<source>Connection lost.</source>
 
@@ -116,7 +116,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42017” restype=”string” datatype=”text/html”>
+			<trans-unit id="42017" restype="string" datatype="text/html">
 
 				<source>Click</source>
 
@@ -126,7 +126,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42018” restype=”string”>
+			<trans-unit id="42018" restype="string">
 
 				<source>Session expired.</source>
 
@@ -136,7 +136,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42019” restype=”string” approved=”yes”>
+			<trans-unit id="42019" restype="string" approved="yes">
 
 				<source>Submit</source>
 
@@ -146,7 +146,7 @@
 
 			</trans-unit>
 
-			<trans-unit id=”42020” restype=”string”>
+			<trans-unit id="42020" restype="string">
 
 				<source>Cancel</source>
 
